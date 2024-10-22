@@ -7,6 +7,7 @@
 [Object Detection with YOLO V3](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 We perform Object Detection with the current SOTA.
+
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
